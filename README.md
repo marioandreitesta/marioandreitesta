@@ -79,6 +79,12 @@ Curioso por natureza. Autodidata por escolha. Vou além do básico quando o bás
   </tr>
 </table>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Alembic-6DB33F?style=for-the-badge&logoColor=white" alt="Alembic" />
+</p>
+
 ---
 
 ### 📂 Repositórios
